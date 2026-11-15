@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "0.0.6",
-  "notes": "修复 Q 版贴边侧抓墙：新增独立 Q 版侧扒素材，贴边窗口按 Q 版素材自身比例重算，贴边时切换 Q 版/普通版会立即重排；底部探头按当前版本头部比例计算。",
+  "versionCode": 7,
+  "versionName": "0.0.7",
+  "notes": "内置讯飞星火 spark-x2.6 云端对话，有效期至 2026-12-01；到期前默认走大模型，到期后自动回本地人格话术。设置页新增内置模型预设。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/IkO2f5YHOlnLJEdaNnScSfqOnse",
-  "downloadName": "小羽桌宠-v0.0.6.zip"
+  "downloadName": "小羽桌宠-v0.0.7.zip"
 }
