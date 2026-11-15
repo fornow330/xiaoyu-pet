@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "0.0.7",
-  "notes": "内置讯飞星火 spark-x2.6 云端对话，有效期至 2026-12-01；到期前默认走大模型，到期后自动回本地人格话术。设置页新增内置模型预设。",
+  "versionCode": 8,
+  "versionName": "0.0.8",
+  "notes": "25 个系统工具与语音唤醒启动修复；唤醒“我在”语音回复，聊天/语音交互必朗读；直接说领域口令即可展开/收起/换景。",
   "downloadUrl": "https://my.feishu.cn/drive/folder/IkO2f5YHOlnLJEdaNnScSfqOnse",
-  "downloadName": "小羽桌宠-v0.0.7.zip"
+  "downloadName": "小羽桌宠-v0.0.8.zip"
 }
