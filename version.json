@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "0.0.8",
-  "notes": "25 个系统工具与语音唤醒启动修复；唤醒“我在”语音回复，聊天/语音交互必朗读；直接说领域口令即可展开/收起/换景。",
-  "downloadUrl": "https://my.feishu.cn/drive/folder/IkO2f5YHOlnLJEdaNnScSfqOnse",
-  "downloadName": "小羽桌宠-v0.0.8.zip"
+  "versionCode": 9,
+  "versionName": "0.0.9",
+  "notes": "新增 8 个场景卡片与逐步执行面板、专属记忆库快速添加、角色资产工坊（透明贴纸/四连表情/自定义立绘）、任务成果库、聊天窗模型与内置 Key 成本提示；修复语音唤醒与领域展开交互。",
+  "downloadUrl": "https://my.feishu.cn/file/OS2wbMsntoAGNXxsAltcPLYQnNh",
+  "downloadName": "小羽桌宠-v0.0.9.zip"
 }
