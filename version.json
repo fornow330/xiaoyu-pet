@@ -2,7 +2,7 @@
   "versionCode": 15,
   "versionName": "0.0.15",
   "notes": "修复私教计划坏字段导致整份计划解析失败；剪贴板历史改为原子写，避免写入中断损坏；更新清单优先采用已签名来源。",
-  "downloadUrl": "https://github.com/fornow330/xiaoyu-pet/releases/download/v0.0.15/xiaoyu-v0.0.15.zip",
+  "downloadUrl": "https://my.feishu.cn/file/GeLkbkUggoM4BkxkubscSnIDnbg",
   "downloadName": "小羽桌宠-v0.0.15.zip",
   "sha256": "a6f77e96d5e37907d03b25b37164340c717db73020cde7a873fed532b85969da",
   "size": 184868906
