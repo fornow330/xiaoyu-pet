@@ -1,7 +1,9 @@
 {
-  "versionCode": 10,
-  "versionName": "0.0.10",
-  "notes": "精简五项：清理无引用死代码；日志、自检、诊断合并为一个三页窗口；设置页提示词与人格话术折叠；收口入口与小配置；同步版本号与说明文档。",
-  "downloadUrl": "https://my.feishu.cn/file/BTnEbsQLLoENfnxL4Kwc65UZnFg",
-  "downloadName": "小羽桌宠-v0.0.10.zip"
+  "versionCode": 14,
+  "versionName": "0.0.14",
+  "notes": "代码审查修复与性能优化：文心客户端不再被强制结束；语音合成改为单线程有界队列并拆出 voice.py；更新器加 HTTPS/域名白名单与未签名二次确认；城市自动探测默认关闭；清理运行时静默异常。",
+  "downloadUrl": "https://my.feishu.cn/file/JX55bXmRVo2uzjxPSABcWFann4e",
+  "downloadName": "小羽桌宠-v0.0.14.zip",
+  "sha256": "7d2eff78899d39b971646c373df5d2fc1ce2911d8af46ef805ec6eb1e8fbb10d",
+  "size": 184866349
 }
