@@ -1,9 +1,9 @@
 {
-  "versionCode": 14,
-  "versionName": "0.0.14",
-  "notes": "代码审查修复与性能优化：文心客户端不再被强制结束；语音合成改为单线程有界队列并拆出 voice.py；更新器加 HTTPS/域名白名单与未签名二次确认；城市自动探测默认关闭；清理运行时静默异常。",
-  "downloadUrl": "https://my.feishu.cn/file/JX55bXmRVo2uzjxPSABcWFann4e",
-  "downloadName": "小羽桌宠-v0.0.14.zip",
-  "sha256": "7d2eff78899d39b971646c373df5d2fc1ce2911d8af46ef805ec6eb1e8fbb10d",
-  "size": 184866349
+  "versionCode": 15,
+  "versionName": "0.0.15",
+  "notes": "修复私教计划坏字段导致整份计划解析失败；剪贴板历史改为原子写，避免写入中断损坏；更新清单优先采用已签名来源。",
+  "downloadUrl": "https://github.com/fornow330/xiaoyu-pet/releases/download/v0.0.15/xiaoyu-v0.0.15.zip",
+  "downloadName": "小羽桌宠-v0.0.15.zip",
+  "sha256": "a6f77e96d5e37907d03b25b37164340c717db73020cde7a873fed532b85969da",
+  "size": 184868906
 }
